@@ -1,6 +1,6 @@
 # Artificial Intelligence: Building the Future of E-Commerce
 
-# [Kamelia Aryafar, VP, Head of Data Science at Overstock.com](http://karyafar.github.io/)
+### [Kamelia Aryafar, VP, Head of Data Science at Overstock.com](http://karyafar.github.io/)
 
 ## [Demystifying Data Science: Metis 2018 Talk ](https://www.thisismetis.com/demystifying-data-science)
 
